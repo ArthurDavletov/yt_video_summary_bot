@@ -1,4 +1,4 @@
-# yt_video_summary_bot
+# [yt_video_summary_bot](https://github.com/ArthurDavletov/yt_video_summary_bot)
 
 Telegram-бот для получения пересказа с YouTube
 
